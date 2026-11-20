@@ -1,7 +1,7 @@
-[gd_scene load_steps=4 format=3 uid="uid://bo2fad2knl8mg"]
+[gd_scene format=3 uid="uid://bo2fad2knl8mg"]
 
-[ext_resource type="Script" path="res://scripts/heart.gd" id="1_heart"]
-[ext_resource type="Texture2D" path="res://sprites/heart.png" id="2_heart"]
+[ext_resource type="Script" uid="uid://la0o144s38yi" path="res://scripts/heart.gd" id="1_heart"]
+[ext_resource type="Texture2D" uid="uid://bc4yrxg72y7ry" path="res://sprites/heart.png" id="2_heart"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_heart"]
 radius = 6.0
