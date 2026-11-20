@@ -1,0 +1,7 @@
+# Cache e arquivos locais gerados pelo Godot
+/.godot/
+/android/
+/export_templates/
+/feature_profiles/
+/script_templates/
+/text_editor_themes/
